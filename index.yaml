@@ -3,9 +3,9 @@ entries:
   core-keeper-dedicated-server:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-09-15T15:50:18.5022559-07:00"
+    created: "2024-10-10T23:39:04.557673-07:00"
     description: A Helm chart for deploying Core Keeper dedicated server
-    digest: 8108b2c1dfbb062755c5ee9170cf9e6eaabd884a0d66b8ee0da7aeb0989afd53
+    digest: dd35a861488c0d545a0f3e95c0358b4e9bf2dd45e4b16ff05200f70e7f384e4e
     home: https://github.com/dqle/core-keeper-dedicated-server-helm
     maintainers:
     - name: Duc Le
@@ -15,21 +15,21 @@ entries:
     version: 1.0.0
   hoyolab-check-in:
   - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2024-09-15T15:50:18.5022559-07:00"
+    appVersion: 1.1.0
+    created: "2024-10-10T23:39:04.5581906-07:00"
     description: A Helm chart for deploying a Hoyolab Check-In CronJob
-    digest: 5fc7d8b32ffda4029210131559a4a06556b1a0989d383c57334b6a1a8d154862
+    digest: 15b2513eb6029a426cd5645d9af77a300a1db9dd12b97e8251386bd633823895
     home: https://github.com/dqle/hoyolab-check-in-helm
     maintainers:
     - name: Duc Le
     name: hoyolab-check-in
     urls:
-    - hoyolab-check-in-1.0.0.tgz
-    version: 1.0.0
+    - hoyolab-check-in-1.1.0.tgz
+    version: 1.1.0
   mabi-ah-discord:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-09-15T15:50:18.5027731-07:00"
+    created: "2024-10-10T23:39:04.5587118-07:00"
     description: A Helm chart for Mabi-AH-Discord
     digest: 10b34ea3a8672c723809f67daf83b0d8f0edb9f819950e1ca956cee54daba087
     home: https://github.com/dqle/mabi-ah-discord
@@ -39,4 +39,4 @@ entries:
     urls:
     - mabi-ah-discord-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-15T15:50:18.5017377-07:00"
+generated: "2024-10-10T23:39:04.5514126-07:00"
